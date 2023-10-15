@@ -15,3 +15,7 @@ In summary, our Power BI project transforms raw sales data into actionable insig
 •	Can you identify any specific products or categories that have shown significant growth or decline in sales?
 •	Are there any regions or states that stand out in terms of sales performance?
 •	How does the quantity of products sold relate to overall sales, and are there any insights into order counts?
+
+**Discount Effectiveness:**
+•	Can we determine if the timing of discounts (e.g., seasonal or holiday promotions) influences their effectiveness?
+•	Are there certain product categories or regions where discounts are particularly effective?
