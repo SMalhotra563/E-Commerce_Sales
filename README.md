@@ -27,9 +27,10 @@ In summary, our Power BI project transforms raw sales data into actionable insig
 •	Are there certain product categories or regions where discounts are particularly effective?
 
 **Profitability Assessment:**
-•	How does the profitability of products vary across different categories and regions?
-•	Are there specific products or regions that are currently less profitable and require attention?
-•	Can we identify opportunities to optimize profitability within specific categories?
+
+ •	How does the profitability of products vary across different categories and regions?
+ •	Are there specific products or regions that are currently less profitable and require attention?
+ •	Can we identify opportunities to optimize profitability within specific categories?
 
 ## **Product Sub-Category Analysis:**
 •	Which sub-categories contribute the most to revenue, and which ones may need additional marketing efforts?
