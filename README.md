@@ -12,9 +12,9 @@ In summary, our Power BI project transforms raw sales data into actionable insig
 
 ## **Sales Performance Analysis:**
 
-•	What is the overall trend in sales over the past year, and are there any noticeable seasonal patterns?
+ •	What is the overall trend in sales over the past year, and are there any noticeable seasonal patterns?
 
-•	Can you identify any specific products or categories that have shown significant growth or decline in sales?
+ •	Can you identify any specific products or categories that have shown significant growth or decline in sales?
 
 •	Are there any regions or states that stand out in terms of sales performance?
 
