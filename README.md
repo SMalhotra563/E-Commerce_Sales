@@ -10,14 +10,20 @@ Inventory Management
 Data-Driven Decision-Making
 In summary, our Power BI project transforms raw sales data into actionable insights, providing us with a competitive edge in the sales domain and helping us make informed decisions to drive growth and profitability.
 
-**Sales Performance Analysis:**
+## **Sales Performance Analysis:**
+
 •	What is the overall trend in sales over the past year, and are there any noticeable seasonal patterns?
+
 •	Can you identify any specific products or categories that have shown significant growth or decline in sales?
+
 •	Are there any regions or states that stand out in terms of sales performance?
+
 •	How does the quantity of products sold relate to overall sales, and are there any insights into order counts?
 
-**Discount Effectiveness:**
+## **Discount Effectiveness:**
+
 •	Can we determine if the timing of discounts (e.g., seasonal or holiday promotions) influences their effectiveness?
+
 •	Are there certain product categories or regions where discounts are particularly effective?
 
 **Profitability Assessment:**
@@ -25,15 +31,15 @@ In summary, our Power BI project transforms raw sales data into actionable insig
 •	Are there specific products or regions that are currently less profitable and require attention?
 •	Can we identify opportunities to optimize profitability within specific categories?
 
-**Product Sub-Category Analysis:**
+## **Product Sub-Category Analysis:**
 •	Which sub-categories contribute the most to revenue, and which ones may need additional marketing efforts?
 •	Are there any emerging trends or changes in customer preferences within sub-categories?
 
-**Regional Sales Analysis:**
+## **Regional Sales Analysis:**
 •	What are the top-performing regions in terms of sales, and what factors contribute to their success?
 •	Are there regions with lower sales performance, and what strategies can be employed to improve them?
 
-**Category Analysis:**
+## **Category Analysis:**
 •	Which product categories generate the highest sales revenue, and how can this information inform inventory management and marketing strategies?
 •	Are there product categories that show potential for growth or require additional attention?
 
@@ -41,11 +47,11 @@ In summary, our Power BI project transforms raw sales data into actionable insig
 •	How are products distributed across different customer segments, and does this distribution align with marketing and sales strategies?
 •	Are there opportunities to tailor product offerings or promotions for specific customer segments based on category preferences?
 
-**Yearly Sales Trends:**
+## **Yearly Sales Trends:**
 •	What are the significant sales trends observed over the past few years, and how do they correlate with economic conditions or external factors?
 •	Can we identify any recurring patterns or anomalies in yearly sales trends?
 
-**State-level Analysis:**
+## **State-level Analysis:**
 •	What is the distribution of sales across different states, and are there high-performing states that deserve special attention?
 •	How do state-level sales trends differ, and can we use this information for targeted marketing efforts?
 •	Performance Metrics Dashboard:
