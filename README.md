@@ -26,7 +26,7 @@ In summary, our Power BI project transforms raw sales data into actionable insig
 
  •	Are there certain product categories or regions where discounts are particularly effective?
 
-**Profitability Assessment:**
+## **Profitability Assessment:**
 
   •	How does the profitability of products vary across different categories and regions?
  
@@ -52,7 +52,7 @@ In summary, our Power BI project transforms raw sales data into actionable insig
  
  •	Are there product categories that show potential for growth or require additional attention?
 
-**Segmented Category Analysis:**
+## **Segmented Category Analysis:**
 
  •	How are products distributed across different customer segments, and does this distribution align with marketing and sales strategies?
 
@@ -76,7 +76,7 @@ In summary, our Power BI project transforms raw sales data into actionable insig
 
  •	How can the dashboard provide actionable insights for decision-making and strategic planning?
 
-**Forecasting and Planning:**
+## **Forecasting and Planning:**
  
  •	How accurate are our sales forecasts based on historical data and trends, and how can we improve them?
  
